@@ -1,2 +1,2 @@
 # hell-world
-Does what it says on the tiun
+Does what it says on the tin
